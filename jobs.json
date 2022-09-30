@@ -250,17 +250,22 @@
 "requirements" : "Html,Java, Python, CSS, JavaScript",
    
 "contactEmail" : "shindeanmol125@gmail.com"},
-
  {
  
-"id" : "88",
+  
+"id" : "22",
 
-"companyName " : "Colab India",
+"companyName " : "tcs",
 
-"contactEmail" : "diyagandhisb@gmail.com"
+"position" : "Full stack Developer",
+
+"requirements" : "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
+
+"contactEmail" : "vishalabhange2002@gmail.com"},
+
+
+{
  
- },
-  {
   
 "id" : "23",
 
@@ -273,6 +278,8 @@
 "contactEmail" : "vishalabhange2002@gmail.com"},
 
  {
+ 
+  
 "id" : "24",
 
 "companyName " : "tcs",
@@ -284,18 +291,8 @@
 "contactEmail" : "anuradhathombare1512@gmail.com"},
 
 {
+
 "id" : "25",
-
-"companyName " : "tcs",
-
-"position" : "Full stack Developer",
-
-"requirements" : "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
-
-"contactEmail" : "vishalabhange2002@gmail.com"},
-{
-
-"id" : "26",
 
 "companyName " : "Google",
 
@@ -304,5 +301,18 @@
 "requirements" : "Html, CSS, JavaScript",
 
 "contactEmail" : "shajahansayyedz@gmail.com"
-} ,
+} 
+  
+{
+
+"id" : "26",
+
+"companyName " : "Morgan Stanley",
+
+"position" : "Full Time Analyst",
+
+"requirements" : "Java, C++ or C# database knowledge. Operating system knowledge (Windows and Unix).",
+
+"contactEmail" : "asia.recruit@morganstanley.com"
+},
 ]
