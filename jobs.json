@@ -250,8 +250,22 @@
 "requirements" : "Html,Java, Python, CSS, JavaScript",
    
 "contactEmail" : "shindeanmol125@gmail.com"},
+ {
+ 
+  
+"id" : "22",
 
-  {
+"companyName " : "tcs",
+
+"position" : "Full stack Developer",
+
+"requirements" : "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
+
+"contactEmail" : "vishalabhange2002@gmail.com"},
+
+
+{
+ 
   
 "id" : "23",
 
@@ -264,6 +278,8 @@
 "contactEmail" : "vishalabhange2002@gmail.com"},
 
  {
+ 
+  
 "id" : "24",
 
 "companyName " : "tcs",
@@ -275,18 +291,8 @@
 "contactEmail" : "anuradhathombare1512@gmail.com"},
 
 {
+
 "id" : "25",
-
-"companyName " : "tcs",
-
-"position" : "Full stack Developer",
-
-"requirements" : "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
-
-"contactEmail" : "vishalabhange2002@gmail.com"},
-{
-
-"id" : "26",
 
 "companyName " : "Google",
 
@@ -296,24 +302,16 @@
 
 "contactEmail" : "shajahansayyedz@gmail.com"
 } 
-  {
   
-"id" : "27",
+{
+"id" : "29",
 
-"companyName " : "IESoft Technologies Private Limited",
+"companyName " : "Morgan stanley",
 
-"position" : "UX Design",
+"position" : "Full Time Analyst",
 
-"requirements" : "Adobe After Effects, Adobe Creative Suite, Adobe Illustrator, Adobe Photoshop, Adobe XD, Figma, UI & UX Design",
-   
-"contactEmail " : "info@iesoftfzc.com"},
- {
+"requirements" : "Java, C++ or C# database knowledge. Operating system knowledge (Windows and Unix).",
 
-"id" : "28",
-
-"companyName " : "Colab India",
-
-"contactEmail" : "diyagandhisb@gmail.com"
- 
- }
+"contactEmail" : "asia.recruit@morganstanley.com"
+},
 ]
